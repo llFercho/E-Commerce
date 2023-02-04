@@ -6,7 +6,7 @@ let stockProductos = [
     { id: 5, nombre: "Farola Default", cantidad: 1, desc: "Producto confiable en material de alta calidad", precio: 120, talle: "S", img: './PartesElectricas/PE-farola2.webp' },
     { id: 6, nombre: "Stop Default", cantidad: 1, desc: "Producto confiable en material de alta calidad", precio: 150, talle: "S", img: './PartesElectricas/PE-Stop2.jpg' },
     { id: 7, nombre: "Biela Standar", cantidad: 1, desc: "Producto confiable en material de alta calidad", precio: 58, talle: "L", img: './PartesMecanicas/PM-Biela.jpg' },
-    { id: 8, nombre: "Cilindro", cantidad: 1, desc: "Producto confiable en material de alta calidad", precio: 75, talle: "L", img: './PartesMecanicas/PM-Cilindro2.jpg' },
+    { id: 8, nombre: "Cilindro", cantidad: 1, desc: "Producto confiable en material de alta calidad", precio: 75, talle: "L", img: './PartesMecanicas/PM-cilindro.webp' },
     { id: 9, nombre: "Discos de Cluth", cantidad: 1, desc: "Producto confiable en material de alta calidad", precio: 50, talle: "M", img: './PartesMecanicas/PM-Discos.jpg' },
     { id: 10, nombre: "Monoshock Standar", cantidad: 1, desc: "Producto confiable en material de alta calidad", precio: 90, talle: "M", img: './PartesMecanicas/PM-Monoshok.jpg' },
     { id: 11, nombre: "Piston", cantidad: 1, desc: "Producto confiable en material de alta calidad", precio: 78, talle: "S", img: './PartesMecanicas/PM-Piston.jpg' },
